@@ -62,15 +62,15 @@ The project follows an end-to-end machine learning workflow:
 ## 4. Repository Structure
 
 ```text
-Predictive-Modeling-Framework/
+yield-modeling/
 │
 ├── yield_Modeling.docx
 ├── yield.Rmd
 ├── README.md
 │
 └── images/
-    ├── project.jpg
-    ├── workflow.png
+    ├── proj.jpg
+    ├── diagram.png
 
 ```
 
